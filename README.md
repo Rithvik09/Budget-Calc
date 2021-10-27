@@ -47,9 +47,6 @@ List the ready features here:
 ## Usage
 
 You need to have the source code to run the program.
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 
 ## Project Status
