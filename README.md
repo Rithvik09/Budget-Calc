@@ -1,6 +1,5 @@
 # Budget-Calc
-This project takes State Name and the yearly income as two inputs from the user. Based on the state name and the overall income, this tool provides recommendation on how one can budget their income into various components.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+This project takes State Name and the yearly income as two inputs from the user. Based on the state and the overall income, this tool provides recommendation on how one can budget their income into various components.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,46 +16,44 @@ This project takes State Name and the yearly income as two inputs from the user.
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+- This program addresses the problem of people not able to decide on properly allocating their income for various spending and savings.
+- Helps people get an idea of how to distribute their spending appropriately with an amount allocated for savings. 
+- I had a school essay that prompted me to leverage my programming skills to help solve common people problems.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Java SE, Version 17
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Dropdown menu with typeahead feature to put in State name
+- "Back" button helps to initiate and run it multiple times
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+![image](https://user-images.githubusercontent.com/34558093/139105423-df897ba1-4099-46cf-949e-50be8959305d.png)
+![image](https://user-images.githubusercontent.com/34558093/139105492-3c44ef3f-249f-4d9b-a7ae-82ba02cbe69c.png)
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+- Need to install Eclipse IDE or any other IDE in your PC
+- Need to install Java FX 
 
 
 ## Usage
-How does one go about using it?
+
+You need to have the source code to run the program.
 Provide various use cases and code examples here.
 
 `write-your-code-here`
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
