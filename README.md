@@ -18,8 +18,8 @@ This project takes State Name and the yearly income as two inputs from the user.
 ## General Information
 
 - This program addresses the problem of people not able to decide on properly allocating their income for various spending and savings.
-- Helps people get an idea of how to distribute their spending appropriately with an amount allocated for savings. 
-- I had a school essay that prompted me to leverage my programming skills to help solve common people problems.
+- Helps people get an idea of how to distribute their spending appropriately with an amount allocated for savings
+- All the calculations included in this program are based on research studies found online. 
 
 
 ## Technologies Used
@@ -57,28 +57,20 @@ Project is: _complete_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Additional validations for the amount value
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Display the % allocation for each component
+- Provide option to edit the allocation % and see results
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- This project was inspired by me getting to imagine how I can spend my future income effectively. 
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Rithvik Sriram [rithvikranga@gmail.com]
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
